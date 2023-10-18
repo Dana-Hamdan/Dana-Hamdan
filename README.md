@@ -6,7 +6,7 @@ Dana Hamdan is an innovative and forward-thinking software engineer, whose dedic
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Dana-Hamdan&label=Profile%20views&color=0e75b6&style=flat" alt="Dana-Hamdan" /> </p>
 
-- 🌱 I’m currently learning Project management
+- 🌱 Learning more about Project management
   
 - 💬 Ask me about Java, C++, C, and Laravel
   
