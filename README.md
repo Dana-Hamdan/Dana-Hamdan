@@ -6,6 +6,8 @@ Dana Hamdan is an innovative and forward-thinking software engineer, whose dedic
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Dana-Hamdan&label=Profile%20views&color=0e75b6&style=flat" alt="Dana-Hamdan" /> </p>
 
+  <img src="https://user-images.githubusercontent.com/74038190/216656959-bdd9b5f2-9fc8-438e-bbf3-3674c39ec746.gif" width="160" align="right" />
+
 - 🌱 Learning more about Project management
   
 - 💬 Ask me about Java, C++, C, and Laravel
@@ -13,6 +15,9 @@ Dana Hamdan is an innovative and forward-thinking software engineer, whose dedic
 - 📫 How to reach me **dana.ha.98@hotmail.com**
   
 - ⚡ Fun fact I love to travel
+
+
+
 
 
 <p align="left">
@@ -146,3 +151,10 @@ Dana Hamdan is an innovative and forward-thinking software engineer, whose dedic
 
 
 </div>
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abdulrahim-ramadan/abdulrahim-ramadan/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abdulrahim-ramadan/abdulrahim-ramadan/output/github-contribution-grid-snake-dark.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/abdulrahim-ramadan/abdulrahim-ramadan/output/github-contribution-grid-snake.svg">
+</picture>
