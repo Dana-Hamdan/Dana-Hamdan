@@ -1,8 +1,12 @@
-<img src="cover.gif" width="1000" height="500">
+
 <h1 align="center">Hi 👋, I'm Dana Hamdan</h1>
 <h2 align="center">Software Engineer</h2>
 
 Dana Hamdan is an innovative and forward-thinking software engineer, whose dedication to her craft is a testament to her passion for coding and her inherent knack for problem-solving. With a keen eye for detail and a commitment to continuous learning, she's at the forefront of technological advancements, always seeking new and better ways to enhance user experiences and streamline processes. 
+
+<br><br>
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7d484dc9-68a9-4ee6-a767-aea59035c12d" align="center" />
+<br><br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Dana-Hamdan&label=Profile%20views&color=0e75b6&style=flat" alt="Dana-Hamdan" /> </p>
 
