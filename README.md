@@ -1,6 +1,5 @@
+<a  href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=500&height=60&lines=Hi+%F0%9F%91%8B%2C+I'm+Dana+Hamdan;I'm+Software+Engineer" alt="Typing SVG" /></a>
 
-<h1 align="center">Hi 👋, I'm Dana Hamdan</h1>
-<h2 align="center">Software Engineer</h2>
 
 Dana Hamdan is an innovative and forward-thinking software engineer, whose dedication to her craft is a testament to her passion for coding and her inherent knack for problem-solving. With a keen eye for detail and a commitment to continuous learning, she's at the forefront of technological advancements, always seeking new and better ways to enhance user experiences and streamline processes. 
 
