@@ -1,7 +1,7 @@
 
 # 💫 About Me:
 <img src="https://user-images.githubusercontent.com/74038190/216656959-bdd9b5f2-9fc8-438e-bbf3-3674c39ec746.gif" width="160" align="right" /> 
-🔭 I’m currently working on my Skills.<br>🌱 I’m currently learning more about Fullstack Web development<br>💬 Ask me about any tech-related stuff.<br>📫 How to reach me: Email - joeel56@8mylez.com<br>⚡ Fun fact: Spaces are better than tabs 
+🔭 I’m currently working on my Skills.<br>🌱 I’m currently learning more about Fullstack Web development<br>💬 Ask me about any tech-related stuff.<br>📫 How to reach me: Email -dana.ha.98@hotmail.com <br>⚡ Fun fact: Spaces are better than tabs 
 
   
 
@@ -20,5 +20,3 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
-
-<img src="https://raw.githubusercontent.com/pythondeveloper6/pythondeveloper6/output/snake.svg" alt="Snake animation" />
